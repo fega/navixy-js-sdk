@@ -6,7 +6,8 @@
   "scripts": {
     "test": "test",
     "watch": "webpack --config webpack.config.js --watch",
-    "start": "webpack --config webpack.config.js"
+    "start": "webpack --config webpack.config.js",
+    "build": "webpack-cli --help"
   },
   "author": "Navixy",
   "license": "MIT",
